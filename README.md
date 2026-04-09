@@ -4,6 +4,7 @@ In today’s fast-evolving embedded systems market, performance, scalability, an
 
 Developed by DIT (Display Innovation Technology), this advanced SOM combines high computing performance with rich connectivity, making it an ideal choice for engineers and system integrators.
 
+
 Powerful Processing with RK3568 Platform
 
 At the core of the MST35684 SOM is the Rockchip RK3568 processor, featuring a quad-core ARM Cortex-A55 architecture with a frequency of up to 2.0GHz. This ensures smooth performance for demanding workloads such as:
@@ -18,6 +19,7 @@ Smart display systems
 
 The integrated Mali-G52 GPU supports modern graphics standards including OpenGL ES, OpenCL, and Vulkan, enabling high-quality visual performance.
 
+
 Flexible Memory and Storage Options
 
 The module supports:
@@ -28,6 +30,7 @@ Up to 128GB eMMC storage
 
 This flexibility allows developers to optimize configurations based on project requirements, whether for lightweight embedded systems or data-intensive applications.
 
+
 Advanced Multimedia Capabilities:
 
 The MST35684 SOM is engineered for high-end multimedia performance:
@@ -37,6 +40,7 @@ The MST35684 SOM is engineered for high-end multimedia performance:
 1080P video encoding at 60fps
 
 Multi-display support with independent output
+
 
 It also supports multiple display interfaces, including:
 
@@ -49,6 +53,7 @@ MIPI DSI
 LVDS
 
 This makes it ideal for digital signage, smart kiosks, and all-in-one display solutions.
+
 
 Rich Interface Integration:
 
@@ -67,6 +72,7 @@ CAN Bus
 UART, SPI, I2C, GPIO
 
 With these interfaces, the MST35684 can easily connect to a wide range of peripherals and industrial systems.
+
 
 Designed for Industrial Applications
 
@@ -88,6 +94,7 @@ AI vision systems
 
 Commercial display terminals
 
+
 Why Choose DIT?
 
 DIT (Display Innovation Technology) is a leading provider of industrial embedded computing and display solutions. With strong R&D capabilities and manufacturing expertise, DIT delivers high-quality SOM modules, LCD solutions, and customized hardware platforms.
@@ -100,9 +107,12 @@ Flexible customization support
 
 Professional technical assistance
 
+https://www.ditlcm.com/en/products/industrial-core-board/SOM-5
+
 Conclusion
 
 The MST35684 RK3568 SOM is a powerful, versatile, and industrial-grade embedded solution. Its combination of high performance, rich interfaces, and multimedia capabilities makes it an excellent choice for next-generation smart devices.
+
 
 For more details, visit:
 
